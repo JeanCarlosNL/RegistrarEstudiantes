@@ -39,10 +39,10 @@ if(isset($_POST['nombre']) && isset($_POST['apellidos']) && isset($_POST['carrer
   <title>Registro de Estudiantes</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../styles/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="../css/scrolling-nav.css" rel="stylesheet">
+  <link href="../styles/css/scrolling-nav.css" rel="stylesheet">
   
   <!-- Font Awesome-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
